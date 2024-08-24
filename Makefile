@@ -1,0 +1,1 @@
+create_epub :; pandoc stgb_chapters/*.html -o stgb_novel.epub --metadata title="Surviving The Game as a Barbarian" --metadata author="Jung Yoon-kang" --metadata cover-image="cover.jpg" --metadata language="en" --toc
